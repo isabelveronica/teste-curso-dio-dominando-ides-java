@@ -24,8 +24,6 @@ public class Calculadora {
 		System.out.println("Resultado da Multiplicação: " + multiplicacao);
 		System.out.println("Resultado da Divisão: " + divisao);
 		
-		
-
 	}
 
 	public static int soma (int a, int b) {
